@@ -1,0 +1,12 @@
+/* Main CSS file */ 
+/* Subscribe button */
+.subscribe-btn {
+  background-color: #ff6f61;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+.subscribe-btn:hover {
+  background-color: #e65c50;
+}
