@@ -1,3 +1,4 @@
 pytest
 requests
 flask
+django==1.2
